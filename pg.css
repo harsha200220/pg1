@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(238, 237, 237);
+}
+h2{
+    font-size: 40px;
+}
+
+#outter-div
+{
+    width:100%;
+}
+
+#div-left
+{
+    width: 42%;
+    min-height: 500px;
+    background-color: rgb(169, 169, 169);
+    font-size: 30px;
+    text-align: left;
+    font-family: arial;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 170px;
+    border-radius: 3%;
+    
+}
+
+#div-right1
+{
+    margin-top: 20px;
+    position:absolute;
+    top: 0px;
+    left: 765px;
+
+}
+
+.one{
+    border-radius: 5%;
+    width: 600px;
+    height: 330px;
+    border:3px solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 3px;
+
+}
+
+#div-right2
+{
+    margin-top: 40px;
+    position:absolute;
+    top: 327px;
+    left: 765px;
+
+}
+
+.two{
+    border-radius:5%;
+    width: 600px;
+    height: 330px;
+    border:3px solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-width: 3px;
+
+}
+ .clearfix
+ {
+    content: " ";
+    display: block;
+    clear: both;
+ }
+
+ #div3
+{   
+    margin-top: 30px;
+    margin-left: 10px;
+}
+ .row
+ {
+    margin-left: 20px;
+ }
+
+.three
+{   
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 430px;
+    height: 200px;
+    border-radius: 5%;
+    border:3.5px solid;
+    float: left;
+}
+
+#ammi
+{
+    border-radius:15px;
+    width: 91.8%;
+    min-height: 710px;
+    margin-top: 30px;
+    margin-left: 56px;
+    background-color: rgb(255, 255, 255);
+}
+
+#di
+{  
+    position: absolute;
+    width:85%;
+    align-self: center;
+    margin-top: 20px;
+    min-height: 70px;
+    line-height: 70px;
+    margin-left: 50px;
+    text-align: center;
+    border-radius:15px;
+    font-size: 35px;
+    background-color: lightgray;
+}
+
+#imga
+{
+    position: absolute;
+    width:85%;
+    height: 540px;
+    align-self: center;
+    margin-top: 140px;
+    margin-left: 50px;
+    border-radius:15px;
+    background-color: lightpink;
+}
+
+.home
+{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 90px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+#last
+{
+    border-radius:15px;
+    width: 91.8%;
+    min-height: 710px;
+    margin-top: 40px;
+    margin-left: 56px;
+    background-color: black;
+}
+
+
